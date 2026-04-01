@@ -16,7 +16,7 @@ public class manualexception {
     }
     public static void main(String[] args) {
         try {
-            checkAge(18);
+            checkAge(10);
         } 
         catch (Exception e) {
             System.out.println(e.getMessage());
