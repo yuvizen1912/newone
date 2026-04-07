@@ -1,5 +1,5 @@
 
-package src.ecommerce.Model;
+package src.Ecommerce.Model;
 
 
 public class User1 {

@@ -1,4 +1,4 @@
-package src.ecommerce.Model; ;
+package src.Ecommerce.Model; ;
 
 public class Product1 {
     public static String productname;

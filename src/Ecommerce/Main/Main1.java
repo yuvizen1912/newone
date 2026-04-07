@@ -1,4 +1,4 @@
-package src.Ecommerce.Main; // Removed 'src.'
+package src.Ecommerce.Main; 
 
 
 import src.Ecommerce.Model.*; 

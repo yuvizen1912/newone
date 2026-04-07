@@ -1,4 +1,5 @@
-package src.ecommerce.Model;
+package src.Ecommerce.Model;
+import src.Ecommerce.Model.*;
 
 public class Order1 {
     public int quantity;
@@ -7,7 +8,8 @@ public class Order1 {
     public Order1(String product,int quantity) {
         this.quantity = quantity;
         User1.addetails("Bala","Chennai");
-        product1.getproduct(product,200);
+        Product1 p = new Product1();
+        p.getproduct(product,200);
     }
 
 
