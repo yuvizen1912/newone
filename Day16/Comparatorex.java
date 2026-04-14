@@ -35,6 +35,7 @@ public class Comparatorex {
         };
 
         Collections.sort(students, byId);
+        Collections.sort(students,(a,b) -> a.mark - b.mark);
         System.out.println(students);
     }
 }
